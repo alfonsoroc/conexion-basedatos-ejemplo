@@ -1,10 +1,10 @@
-package com.conexion.basedatos.conexionbasedatos;
+package com.conexion.basedatos.conexionbasedatosjpa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ConexionBasedatosApplicationTests {
+class ConexionBasedatosJpaApplicationTests {
 
 	@Test
 	void contextLoads() {
